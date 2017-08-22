@@ -1,0 +1,16 @@
+# General
+alias la="ls -a"
+
+# Directories
+alias home="cd $HOME"
+alias code="cd $HOME/Code"
+
+# Files
+alias aliases="nano $HOME/.aliases"
+
+# ZSH
+alias zshconfig="nano $HOME/.zshrc"
+alias ohmyzsh="nano $HOME/.oh-my-zsh"
+
+# React Native
+alias rn="react-native"
