@@ -16,5 +16,4 @@ alias ohmyzsh="nano $HOME/.oh-my-zsh"
 alias rn="react-native"
 
 # VS Code
-alias vscode="/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin$
-"
+alias vscode="/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code"
